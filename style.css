@@ -1,0 +1,35 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.card1{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 1%;
+}
+.card2{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 1%;
+}
+.card3{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 1%;
+}
+.card4{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 1%;
+}
+h3{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+p{
+    text-align: center;
+    color: grey;
+    font-family: "Roboto", sans-serif;
+}
+.img{
+    height: 60px;
+    
+
+}
