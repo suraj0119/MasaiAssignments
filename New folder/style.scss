@@ -1,0 +1,18 @@
+$main-color: #3498db;
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: $main-color;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 2px solid $main-color;
+}
+
+h1 {
+    color: $main-color;
+}
